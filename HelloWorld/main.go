@@ -28,4 +28,7 @@ func main() {
 
 	fmt.Println(Public)
 	fmt.Println(private)
+
+	var message = "Hello world! we are back with go lang!"
+	fmt.Println(message)
 }
