@@ -31,4 +31,7 @@ func main() {
 
 	var message = "Hello world! we are back with go lang!"
 	fmt.Println(message)
+
+	var message2 = "Hellooooooo"
+	fmt.Println(message2)
 }
